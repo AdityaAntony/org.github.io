@@ -1,2 +1,174 @@
-# org.github.io
-testing
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brights n Whites | Welcome</title>
+    <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+    
+
+  </head>
+  <body>
+
+    <!-- Start Top Bar -->
+   <!-- Nav Bar-->
+    <div class="top-bar">
+      <div class="top-bar-left">
+        <ul class="menu">
+          <li class="menu-text"><a href="#"></a></li>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Services</a></li>
+        </ul>
+      </div>
+      <div class="top-bar-right">
+        <ul class="menu">
+          <li><a href="#">How To Use Our Machines</a></li>
+          <li><a href="#">Lost Goods</a></li>
+          <li><a href="#">Whats Near by</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <!-- End Top Bar -->
+<!--Static IMG-->
+<img src="a3e8e7_1c9e6b3ee9f145ce939b809a08acb435.webp" width="100%" alt="">
+    <!--Google Maps-->
+    <div class="row">
+      <div class="medium-6 columns medium-push-6">
+        <!--iframe with link to google maps api-->
+        <iframe src="https://storage.googleapis.com/maps-solutions-5of25z8hyj/locator-plus/aiey/locator-plus.html" 
+        width="100%" height="500px"
+        style="border:0;"
+        loading="lazy">
+    </iframe>
+      </div>
+      <!--About us, will need changing but need to ask client about this-->
+      <div class="medium-6 columns medium-pull-6">
+        <h2>About Us</h2>
+        <p>Welcome to our family-run laundromat! We prioritize cleanliness, convenience, and friendly service. With modern facilities and top-notch equipment, we're dedicated to making your laundry experience hassle-free. Trust us with your laundry needs and enjoy a welcoming environment that feels like home. Thank you for choosing us!</p>
+      </div>
+    </div>
+<hr>
+<!--Popular Machines
+  need to ask client about what 3 machines they want advertised.
+-->
+    <div class="row">
+      <div class="medium-4 columns">
+        <h3 style="text-align: center;">Pet Wash</h3>
+        <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+      </div>
+      <div class="medium-4 columns">
+        <h3 style="text-align: center;">Coin Machine</h3>
+        <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+      </div>
+      <div class="medium-4 columns">
+        <h3 style="text-align: center;">24kg washer</h3>
+        <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+      </div>                                           
+    </div>
+
+
+    <hr>
+    <!--What payment we accept? 
+      could replace with how long it roughly takes to complete a wash or relate it to the above machines-->
+    <h3 style="text-align: center;">Our Machines Accept:</h3>
+    <div class="row column">
+      <ul class="vertical medium-horizontal menu expanded text-center">
+
+        <li><div class="stat">$1</div></li>
+        <li><div class="stat">$2</div></li>
+        <li><div class="stat">Card</div></li>
+      </ul>
+    </div>
+    <hr>
+    <!--Interactive IMG 
+    
+    Im thinkning something like a 360 photo and then having the ability to scroll through the store? 
+  
+  or we can keep it more lowkey and have just left and right of the store however its a bit cramped in there kind narrow...
+
+will need to discuss further.
+
+Might need a 360 camera or phone attachment if we doing the 360 thing? will need to see options for all ways.-->
+    <div class="row">
+      <div class="column">
+        <img src="thumbnail_IMG_1914.jpg" alt="" width="100%">
+      </div>
+    </div>
+    <hr>
+    <!--Review
+    
+    Will probably need a way to display the 5 stars making it look good. 
+    Maybe an image or a css thing not sure what is best way.
+    also having reviews and having them scroll through. may have to create some fake reviews...
+
+    -->
+    <div class="row">
+      <div class="columns">
+        <h3>Reviews</h3>
+        <p>Reviews and stars from google</p>
+      </div>
+    </div>
+    <hr>
+    
+<!--Thurstan youre on working out how to link to a facebook page. if anything link to your account and then ill see how comftable
+    parents are with giving you access to the account if not ill get you to show me how to do it once youve worked it out.
+  
+  i want the posts to be displayed inside the placeholders if possible if not make something similar.-->
+    <div class="row column">
+      <a  href="Facebook Page"><h3>Facebook Posts</h3></a>
+    </div>
+    link to facebook posts 
+    <div class="row medium-up-3 large-up-4">
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+      <div class="column">
+        <img class="thumbnail" src="https://placehold.it/550x550">
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row column">
+      <ul class="menu">
+        <li><a href="#">One</a></li>
+        <li><a href="#">Two</a></li>
+        <li><a href="#">Three</a></li>
+        <li><a href="#">Four</a></li>
+      </ul>
+    </div>
+
+  </body>
+</html>
+
